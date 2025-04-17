@@ -1,0 +1,6 @@
+# your code goes here
+n1 = int(input("Escreva um número natural: "))
+if n1 % 2 == 1:
+    print(f'Impar')
+else:
+    print('Par') 
